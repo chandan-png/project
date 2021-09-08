@@ -6,3 +6,6 @@ h1{
     text-shadow: rgb(2 4, 56, 67);
 }
 
+.form{
+    font: optional;
+}
